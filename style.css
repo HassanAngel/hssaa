@@ -132,3 +132,8 @@ button:hover {
     color: white;
     text-decoration: none;
 }
+@media (max-width:480px){
+    .login-box{
+        width: 280px;
+    }
+}
